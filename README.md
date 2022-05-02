@@ -1,6 +1,5 @@
 # To-Do-List
 
 ## Em construção ...
-### Somente o Design...
 
-![Layout](https://github.com/MariliaMSiqueira/To-Do-List/blob/main/assets/img/to-do-list-layout.JPG)
+![Layout](https://github.com/MariliaMSiqueira/To-Do-List/blob/main/assets/img/to-do-list-gif.gif)
