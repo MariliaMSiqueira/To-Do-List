@@ -17,8 +17,7 @@ body{
   display: flex;
   justify-content: space-between;
   text-align: justify;
-  align-items: center;
-  
+  align-items: center;  
 }
 
 .checked {
