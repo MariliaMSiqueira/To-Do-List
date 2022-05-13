@@ -1,5 +1,6 @@
 body{
   background: #EEECED;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .main-title{
@@ -12,15 +13,26 @@ body{
   overflow-y: scroll;
 }
 
-#tasks-list button{
-  font-size: 16px;
+#tasks-list ul li {
   display: flex;
+  justify-content: space-between;
+  text-align: justify;
+  align-items: center;
+  
 }
 
-.table td, .table th {
-  padding: .75rem;
-  vertical-align: middle;
-  border-top: 1px solid #dee2e6;
+.checked {
+  text-decoration: line-through;
+}
+
+#tasks-list button{
+  font-size: 16px;
+  margin-left: 18px;
+}
+
+.list-group-item-info{
+  color: #000;
+  
 }
 
 
